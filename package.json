@@ -1,0 +1,27 @@
+{
+  "name": "tsl-connection-sample",
+  "version": "0.0.1",
+  "description": "TSL connection sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Quantium/tsl-connection-sample.git"
+  },
+  "keywords": [
+    "tsl",
+    "sample",
+    "pem",
+    "key",
+    "certificate",
+    "encription"
+  ],
+  "author": "Andrés González Aragón @Quantium (www.quantium.com.mx)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/Quantium/tsl-connection-sample/issues"
+  },
+  "homepage": "https://github.com/Quantium/tsl-connection-sample"
+}
