@@ -20,7 +20,6 @@ if(cluster.isMaster) {
     var server = new Server(serverKey,serverCert,clientCert);
     for(var i = 0; i < count; i++){
         spawn();
-        break;
     }
     cluster.on('death',function(worker){
         var wid = worker.process.env['wid'];
