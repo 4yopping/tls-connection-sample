@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Quantium/tsl-connection-sample.git"
+    "url": "git@github.com:4yopping/tsl-connection-sample.git"
   },
   "keywords": [
     "tsl",
@@ -21,7 +21,7 @@
   "author": "Andrés González Aragón @Quantium (www.quantium.com.mx)",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/Quantium/tsl-connection-sample/issues"
+    "url": "https://github.com/4yopping/tsl-connection-sample/issues"
   },
-  "homepage": "https://github.com/Quantium/tsl-connection-sample"
+  "homepage": "https://github.com/4yopping/tsl-connection-sample"
 }
